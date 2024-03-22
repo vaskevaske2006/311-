@@ -2,7 +2,7 @@
 
 int main()
 {
-
+//pvp je samo tesat
   printf("Ćao svete");
   printf("po drugi put");
 
